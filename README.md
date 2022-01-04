@@ -4,5 +4,5 @@ It's a simple react web application to store, edit and delete your contacts numb
 
 ## Demo
 
-[Demo](https://phonemanager-a95fe.web.app/)
+[Demo](https://sultanulborhanphonemanager.firebaseapp.com/)
 
